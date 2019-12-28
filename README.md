@@ -1,2 +1,2 @@
 # monopoly
-It is the game monopoly.
+This is the java program for the monopoly game.
